@@ -11,14 +11,13 @@ PSQL_MAIN="psql -X --username=sebastianashcallay --dbname=postgres --tuples-only
 # BUILDER
 BUILDER() {
     # Create a database named <liga1_2024_var>
-    CREATE_DB_RESULT=$($PSQL "CREATE DATABASE liga1_2024_var")
+    CREATE_DB_RESULT=$($PSQL_MAIN "CREATE DATABASE liga1_2024_var")
     echo ">> $CREATE_DB_RESULT"
 }
 
 # MAIN
 MAIN() {
-    if [[ $1 = "builder" ]]
-    then
-        BUILDER
-    fi
+    BUILDER
 }
+
+MAIN
