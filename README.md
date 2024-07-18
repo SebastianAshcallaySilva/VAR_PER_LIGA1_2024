@@ -11,6 +11,7 @@ to VAR decisions in Peru's Liga 1 Tournament.
 Tables will be structured as follows:
 ```bash
 --- decisions
+ |--- decision_id
  |--- type_id
  |--- game_id
  |--- home_team
