@@ -1,0 +1,137 @@
+type,round,home_team,away_team,home_goal_diff,away_goal_diff,home_red_diff,away_red_diff
+card changed [red:away],1,UTC,Deportivo Garcilaso,0,0,0,1
+card changed [red:away],1,UTC,Deportivo Garcilaso,0,0,0,1
+goal [awarded:away],1,FBC Melgar,Cusco FC,0,1,0,0
+goal [awarded:home],1,Sporting Cristal,ADT,1,0,0,0
+penalty [awarded-scored:away],1,Sporting Cristal,ADT,0,1,0,0
+card changed [red:away],1,Atletico Grau,Alianza Atletico,0,0,0,1
+goal [cancelled:home],1,Los Chankas,Union Comercio,-1,0,0,0
+goal [cancelled:home],2,Cusco FC,UTC,-1,0,0,0
+penalty [awarded-scored:home],2,Cesar Vallejo,FBC Melgar,1,0,0,0
+penalty [checked-no-penalty:away],2,Cesar Vallejo,FBC Melgar,0,0,0,0
+card reviewed [yellow:away],2,Cesar Vallejo,FBC Melgar,0,0,0,0
+goal [cancelled:home],2,ADT,Cienciano,-1,0,0,0
+penalty [awarded-missed:home],2,ADT,Cienciano,0,0,0,0
+goal [awarded:away],2,Union Comercio,Carlos A. Mannucci,0,1,0,0
+card changed [red:home],2,Universitario,Atletico Grau,0,0,1,0
+goal [cancelled:away],2,Universitario,Atletico Grau,0,-1,0,0
+penalty [awarded-missed:away],2,Alianza Atletico,Alianza Lima,0,0,0,0
+penalty [cancelled:home],2,Alianza Atletico,Alianza Lima,0,0,0,0
+card changed [yellow:home],2,Deportivo Garcilaso,Sport Huancayo,0,0,-1,0
+penalty [awarded-scored:home],3,UTC,Cesar Vallejo,1,0,0,0
+penalty [awarded-scored:away],3,Cienciano,Sporting Cristal,0,1,0,0
+goal [cancelled:away],3,FBC Melgar,Alianza Atletico,0,-1,0,0
+penalty [awarded-scored:home],3,FBC Melgar,Alianza Atletico,1,0,0,0
+penalty [awarded-missed:away],3,Carlos A. Mannucci,Comerciantes Unidos,0,0,0,0
+card changed [red:home],3,Alianza Lima,Universitario,0,0,1,0
+goal [cancelled:home],3,Alianza Lima,Universitario,-1,0,0,0
+card changed [yellow:away],3,Los Chankas,ADT,0,0,0,-1
+card changed [red:away],3,Sport Boys,Deportivo Garcilaso,0,0,0,1
+penalty [awarded-missed:home],3,Sport Boys,Deportivo Garcilaso,0,0,0,0
+penalty [awarded-missed:home],3,Sport Boys,Deportivo Garcilaso,0,0,0,0
+penalty [awarded-scored:home],3,Sport Boys,Deportivo Garcilaso,0,0,1,0
+penalty [awarded-missed:home],3,Atletico Grau,Union Comercio,0,0,0,0
+card changed [red:away],4,Cusco FC,Deportivo Garcilaso,0,0,0,1
+goal [cancelled:home],4,Cusco FC,Deportivo Garcilaso,-1,0,0,0
+goal [cancelled:home],4,Cusco FC,Deportivo Garcilaso,-1,0,0,0
+penalty [awarded-scored:home],4,Universitario,FBC Melgar,1,0,0,0
+card reviewed [yellow:away],4,Cienciano,Sport Boys,0,0,0,0
+goal [awarded:home],4,Cienciano,Sport Boys,1,0,0,0
+penalty [checked-no-penalty:home],4,Comerciantes Unidos,Atletico Grau,0,0,0,0
+goal [checked-goal:home],5,Sport Huancayo,Alianza Atletico,0,0,0,0
+goal [checked-no-goal:home],5,Sport Huancayo,Alianza Atletico,0,0,0,0
+goal [cancelled:home],5,Sport Huancayo,Alianza Atletico,-1,0,0,0
+card changed [red:home],5,Sport Boys,Cusco FC,0,0,1,0
+goal [awarded:home],5,FBC Melgar,Union Comercio,1,0,0,0
+goal [awarded:away],5,Carlos A. Mannucci,Sporting Cristal,0,1,0,0
+penalty [checked-no-penalty:home],5,Atletico Grau,ADT,0,0,0,0
+penalty [awarded-missed:away],5,Atletico Grau,ADT,0,0,0,0
+penalty [awarded-missed:home],6,Alianza Atletico,Deportivo Garcilaso,0,0,0,0
+goal [awarded:home],6,Alianza Atletico,Deportivo Garcilaso,1,0,0,0
+card changed [red:away],6,Alianza Atletico,Deportivo Garcilaso,0,0,0,1
+card changed [no-red:away],6,Universitario,Sport Huancayo,0,0,0,-1
+goal [cancelled:away],6,Cesar Vallejo,Cusco FC,0,-1,0,0
+card changed [red:home],6,Cesar Vallejo,Cusco FC,0,0,1,0
+goal [awarded:away],6,Cienciano,Carlos A. Mannucci,0,1,0,0
+penalty [awarded-scored:away],7,UTC,Comerciantes Unidos,0,1,0,0
+penalty [awarded-scored:away],7,UTC,Comerciantes Unidos,0,1,0,0
+card reviewed [yellow:home],7,UTC,Comerciantes Unidos,0,0,0,0
+penalty [awarded-scored:away],7,Deportivo Garcilaso,Universitario,0,1,0,0
+goal [awarded:home],7,Deportivo Garcilaso,Universitario,1,0,0,0
+goal [cancelled:away],7,FBC Melgar,ADT,0,-1,0,0
+goal [awarded:away],7,FBC Melgar,ADT,0,1,0,0
+penalty [awarded-scored:home],7,Alianza Lima,Sporting Cristal,1,0,0,0
+goal [awarded:home],7,Sport Boys,Cesar Vallejo,1,0,0,0
+goal [awarded:home],7,Sport Huancayo,Union Comercio,1,0,0,0
+card reviewed [yellow:away],8,Universitario,Cusco FC,0,0,0,0
+card changed [yellow:home],8,Cienciano,Alianza Lima,0,0,-1,0
+card changed [red:away],8,Cienciano,Alianza Lima,0,0,0,1
+penalty [checked-no-penalty:home],8,Sporting Cristal,FBC Melgar,0,0,0,0
+penalty [checked-no-penalty:home],8,Alianza Atletico,Cesar Vallejo,0,0,0,0
+penalty [checked-no-penalty:away],8,Carlos A. Mannucci,Sport Boys,0,0,0,0
+card changed [red:home],8,Los Chankas,Atletico Grau,0,0,1,0
+penalty [awarded-scored:home],8,ADT,UTC,1,0,0,0
+penalty [checked-no-penalty:away],8,ADT,UTC,0,0,0,0
+goal [cancelled:home],8,ADT,UTC,-1,0,0,0
+card changed [red:home],9,Deportivo Garcilaso,Comerciantes Unidos,0,0,1,0
+penalty [checked-no-penalty:home],9,Alianza Lima,Los Chankas,0,0,0,0
+penalty [checked-no-penalty:away],9,Cusco FC,Union Comercio,0,0,0,0
+card changed [yellow:away],9,Cesar Vallejo,Universitario,0,0,0,-1
+penalty [awarded-missed:home],9,Sport Huancayo,ADT,0,0,0,0
+penalty [awarded-scored:home],9,UTC,Sporting Cristal,1,0,0,0
+card changed [red:home],10,Los Chankas,FBC Melgar,0,0,1,0
+penalty [awarded-scored:home],10,Union Comercio,Cesar Vallejo,1,0,0,0
+goal [awarded:away],10,Carlos A. Mannucci,Alianza Lima,0,1,0,0
+goal [checked-goal:home],10,Cienciano,UTC,0,0,0,0
+penalty [awarded-scored:away],10,Cienciano,UTC,0,1,0,0
+goal [cancelled:home],10,Sporting Cristal,Sport Huancayo,-1,0,0,0
+card reviewed [yellow:home],10,Comerciantes Unidos,Cusco FC,0,0,0,0
+goal [cancelled:away],10,Comerciantes Unidos,Cusco FC,0,-1,0,0
+penalty [awarded-scored:home],11,Alianza Atletico,Union Comercio,1,0,0,0
+goal [cancelled:away],11,Sport Boys,Universitario,0,-1,0,0
+card changed [red:away],11,Cusco FC,ADT,0,0,0,1
+goal [cancelled:home],11,Cusco FC,ADT,-1,0,0,0
+card changed [red:home],11,Alianza Lima,Atletico Grau,0,0,1,0
+card changed [red:away],11,Alianza Lima,Atletico Grau,0,0,0,1
+card changed [no-red:away],11,UTC,Los Chankas,0,0,0,-1
+goal [awarded:away],11,Deportivo Garcilaso,Sporting Cristal,0,0,0,1
+goal [awarded:away],12,Union Comercio,Universitario,0,1,0,0
+goal [awarded:away],12,Cienciano,Deportivo Garcilaso,0,1,0,0
+penalty [cancelled:home],12,ADT,Cesar Vallejo,0,0,0,0
+goal [cancelled:away],12,Sporting Cristal,Cusco FC,0,-1,0,0
+card changed [yellow:home],13,UTC,Atletico Grau,0,0,-1,0
+goal [awarded:away],13,UTC,Atletico Grau,0,1,0,0
+penalty [cancelled:home],13,Cusco FC,Cienciano,0,0,0,0
+penalty [awarded-scored:home],13,Cusco FC,Cienciano,1,0,0,0
+penalty [awarded-scored:away],13,Alianza Atletico,ADT,0,1,0,0
+penalty [awarded-missed:home],13,Alianza Atletico,ADT,0,0,0,0
+penalty [awarded-scored:home],13,Deportivo Garcilaso,Los Chankas,1,0,0,0
+goal [awarded:home],14,Carlos A. Mannucci,Deportivo Garcilaso,1,0,0,0
+card changed [no-red:home],14,Carlos A. Mannucci,Deportivo Garcilaso,0,0,-1,0
+card changed [red:away],14,Comerciantes Unidos,Union Comercio,0,0,0,1
+penalty [checked-no-penalty:away],14,Comerciantes Unidos,Union Comercio,0,0,0,0
+penalty [awarded-scored:away],14,Comerciantes Unidos,Union Comercio,0,1,0,0
+penalty [awarded-missed:away],14,Sporting Cristal,Alianza Atletico,0,0,0,0
+goal [awarded:away],14,FBC Melgar,Sport Boys,0,1,0,0
+penalty [checked-no-penalty:home],14,Atletico Grau,Sport Huancayo,0,0,0,0
+penalty [awarded-scored:home],15,Union Comercio,ADT,1,0,0,0
+card changed [red:home],15,Sport Boys,Comerciantes Unidos,0,0,1,0
+goal [cancelled:home],15,Cusco FC,Carlos A. Mannucci,-1,0,0,0
+penalty [awarded-scored:away],15,Sport Huancayo,Alianza Lima,0,1,0,0
+goal [awarded:away],15,UTC,FBC Melgar,0,1,0,0
+penalty [checked-no-penalty:home],15,Universitario,Sporting Cristal,0,0,0,0
+penalty [awarded-missed:home],15,Alianza Atletico,Cienciano,0,0,0,0
+penalty [checked-no-penalty:home],15,Alianza Atletico,Cienciano,0,0,0,0
+goal [cancelled:home],16,Atletico Grau,Cusco FC,-1,0,0,0
+penalty [awarded-scored:home],16,Atletico Grau,Cusco FC,1,0,0,0
+penalty [cancelled:home],16,UTC,Sport Boys,0,0,0,0
+penalty [checked-no-penalty:home],16,Cienciano,Universitario,0,0,0,0
+goal [cancelled:home],17,Cesar Vallejo,Atletico Grau,-1,0,0,0
+goal [awarded:away],17,Deportivo Garcilaso,FBC Melgar,0,1,0,0
+card changed [red:home],17,Universitario,Los Chankas,0,0,1,0
+penalty [cancelled:home],17,Alianza Atletico,Carlos A. Mannucci,0,0,0,0
+penalty [awarded-missed:away],18,Deportivo Garcilaso,UTC,0,0,0,0
+penalty [awarded-scored:away],18,Cesar Vallejo,Alianza Lima,0,1,0,0
+penalty [cancelled:home],18,Cesar Vallejo,Alianza Lima,0,0,0,0
+card changed [red:away],18,Alianza Atletico,Atletico Grau,0,0,0,1
+card changed [red:home],18,Alianza Atletico,Atletico Grau,0,0,1,0
